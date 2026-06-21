@@ -46,3 +46,4 @@ Rather than learning passively, I've chosen to learn by building. This repositor
 If you're also learning AI, building projects, or exploring the intersection of software engineering and intelligent systems, feel free to explore the code, share feedback, or connect with me.
 
 Here's to 100 days of learning, building, and growing! 🚀
+PS: Also connect with me on linkedin: https://www.linkedin.com/in/thapajatin/
