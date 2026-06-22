@@ -30,6 +30,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | Day | Project | Status |
 |-----|----------|---------|
 | 1 | GitHub Trending Analyzer | ✅ Completed |
+| 2 | CLI ChatBot with memory(using llama3.2) |  ✅ Completed |
 
 ---
 
