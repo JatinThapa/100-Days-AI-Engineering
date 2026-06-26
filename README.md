@@ -34,6 +34,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 3 | Exploring the World Behind AI | ✅ Completed |
 | 4 | Transformers, Tokens, Context Windows, and LLM “Memory” | ✅ Completed |
 | 5 | AI Sales brochure generator(version 1) | ✅ Completed |
+| 6 | AI MCQs Generator, tested new open-source models | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
