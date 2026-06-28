@@ -36,6 +36,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 5 | AI Sales brochure generator(version 1) | ✅ Completed |
 | 6 | AI MCQs Generator, tested new open-source models | ✅ Completed |
 | 7 | LLM APIs, Prompt Caching & Multi-LLM Conversations | ✅ Completed |
+| 8 | Building LLM User Interfaces with Gradio | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
