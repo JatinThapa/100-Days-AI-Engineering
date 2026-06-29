@@ -37,6 +37,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 6 | AI MCQs Generator, tested new open-source models | ✅ Completed |
 | 7 | LLM APIs, Prompt Caching & Multi-LLM Conversations | ✅ Completed |
 | 8 | Building LLM User Interfaces with Gradio | ✅ Completed |
+| 9 | Building LLM Chatbots with Gradio | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
