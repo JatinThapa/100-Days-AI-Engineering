@@ -38,6 +38,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 7 | LLM APIs, Prompt Caching & Multi-LLM Conversations | ✅ Completed |
 | 8 | Building LLM User Interfaces with Gradio | ✅ Completed |
 | 9 | Building LLM Chatbots with Gradio | ✅ Completed |
+| 10 | Learning Tool Calling in LLMs | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
