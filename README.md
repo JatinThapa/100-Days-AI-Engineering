@@ -39,6 +39,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 8 | Building LLM User Interfaces with Gradio | ✅ Completed |
 | 9 | Building LLM Chatbots with Gradio | ✅ Completed |
 | 10 | Learning Tool Calling in LLMs | ✅ Completed |
+| 11 | Upgrading the AI Flight Assistant | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
