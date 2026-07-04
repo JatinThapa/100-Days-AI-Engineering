@@ -40,6 +40,8 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 9 | Building LLM Chatbots with Gradio | ✅ Completed |
 | 10 | Learning Tool Calling in LLMs | ✅ Completed |
 | 11 | Upgrading the AI Flight Assistant | ✅ Completed |
+| 12 | Airline AI Flight Assistant-image generation, text-to-speech  | ✅ Completed |
+| 13 | Hugging Face and Google Colab| ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
