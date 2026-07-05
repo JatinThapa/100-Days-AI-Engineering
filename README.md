@@ -42,7 +42,8 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 11 | Upgrading the AI Flight Assistant | ✅ Completed |
 | 12 | Airline AI Flight Assistant-image generation, text-to-speech  | ✅ Completed |
 | 13 | Hugging Face and Google Colab| ✅ Completed |
-| 14 | Experimenting Hugging Face models in Google Colab| ✅ Completed |
+| 14 | Experimenting Hugging Face models in Google Colab | ✅ Completed |
+| 15 | Hugging Face Pipelines | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
