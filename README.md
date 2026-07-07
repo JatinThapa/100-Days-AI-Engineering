@@ -45,6 +45,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 14 | Experimenting Hugging Face models in Google Colab | ✅ Completed |
 | 15 | Hugging Face Pipelines | ✅ Completed |
 | 16 | Understanding Tokenizers in LLMs | ✅ Completed |
+| 17 | Quantization, Transformer Internals & Running Open-Source LLMs | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
