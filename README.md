@@ -48,6 +48,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 17 | Quantization, Transformer Internals & Running Open-Source LLMs | ✅ Completed |
 | 18 | Create meeting minutes from an Audio file | ✅ Completed |
 | 19 | Quantization and lower-level Hugging Face Transformers API revision | ✅ Completed |
+| 20 | Full-on hackathon project grind day | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
