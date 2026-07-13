@@ -51,6 +51,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 20 | Full-on hackathon project grind day | ✅ Completed |
 | 21 | Debugging and configuring Docker containers for our hackathon project | ✅ Completed |
 | 22 | CareSyncAI Deployment, Production Debugging & TURN Server Setup | ✅ Completed |
+| 23 | Revising Llama Decoder Layers and Quantization | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
