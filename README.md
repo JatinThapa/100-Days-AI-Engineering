@@ -53,6 +53,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 22 | CareSyncAI Deployment, Production Debugging & TURN Server Setup | ✅ Completed |
 | 23 | Revising Llama Decoder Layers and Quantization | ✅ Completed |
 | 24 | Choosing the Right LLM and Understanding Benchmarks | ✅ Completed |
+| 25 | Exploring AI Leaderboards and Choosing the Right LLM | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
