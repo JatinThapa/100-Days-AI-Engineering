@@ -54,6 +54,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 23 | Revising Llama Decoder Layers and Quantization | ✅ Completed |
 | 24 | Choosing the Right LLM and Understanding Benchmarks | ✅ Completed |
 | 25 | Exploring AI Leaderboards and Choosing the Right LLM | ✅ Completed |
+| 26 | AI Models and Commercial AI Applications | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
