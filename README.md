@@ -56,6 +56,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 25 | Exploring AI Leaderboards and Choosing the Right LLM | ✅ Completed |
 | 26 | AI Models and Commercial AI Applications | ✅ Completed |
 | 27 | AI-Powered Python-to-C++ Code Conversion | ✅ Completed |
+| 28 | Evaluating the Performance of a Generative AI Solution | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
