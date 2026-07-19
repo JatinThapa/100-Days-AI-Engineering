@@ -57,6 +57,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 26 | AI Models and Commercial AI Applications | ✅ Completed |
 | 27 | AI-Powered Python-to-C++ Code Conversion | ✅ Completed |
 | 28 | Evaluating the Performance of a Generative AI Solution | ✅ Completed |
+| 29 | Revising the Foundations Before Starting RAG | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
