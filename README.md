@@ -58,6 +58,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 27 | AI-Powered Python-to-C++ Code Conversion | ✅ Completed |
 | 28 | Evaluating the Performance of a Generative AI Solution | ✅ Completed |
 | 29 | Revising the Foundations Before Starting RAG | ✅ Completed |
+| 30 | Introduction to RAG with a Simple Knowledge Base | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
