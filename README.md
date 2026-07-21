@@ -59,6 +59,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 28 | Evaluating the Performance of a Generative AI Solution | ✅ Completed |
 | 29 | Revising the Foundations Before Starting RAG | ✅ Completed |
 | 30 | Introduction to RAG with a Simple Knowledge Base | ✅ Completed |
+| 31 | Understanding RAG, Embeddings, and Vector Search | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
