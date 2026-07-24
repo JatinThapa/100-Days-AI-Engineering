@@ -62,6 +62,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 31 | Understanding RAG, Embeddings, and Vector Search | ✅ Completed |
 | 32 | Embeddings, ChromaDB and Vector Visualisation | ✅ Completed |
 | 33 | Building a Complete Conversational RAG Pipeline | ✅ Completed |
+| 34 | Evaluating RAG Pipelines | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
