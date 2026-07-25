@@ -63,6 +63,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 32 | Embeddings, ChromaDB and Vector Visualisation | ✅ Completed |
 | 33 | Building a Complete Conversational RAG Pipeline | ✅ Completed |
 | 34 | Evaluating RAG Pipelines | ✅ Completed |
+| 35 | Building RAG Evaluations with JSONL, Pydantic and LLM Judges | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
