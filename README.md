@@ -65,6 +65,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 34 | Evaluating RAG Pipelines | ✅ Completed |
 | 35 | Building RAG Evaluations with JSONL, Pydantic and LLM Judges | ✅ Completed |
 | 36 | Evaluating My RAG System | ✅ Completed |
+| 37 | Advanced RAG Techniques | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
