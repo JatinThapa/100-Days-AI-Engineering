@@ -68,6 +68,8 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 37 | Advanced RAG Techniques | ✅ Completed |
 | 38 | LLM-Powered Document Chunking with Structured Outputs | ✅ Completed |
 | 39 | LLM Chunking to Vector Visualization | ✅ Completed |
+| 40 | LLM Chunking to Vector Visualization | ✅ Completed |
+| 41 | Building a Better RAG Pipeline — and Finding Its Limits | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
