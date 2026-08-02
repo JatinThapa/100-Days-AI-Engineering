@@ -70,6 +70,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 39 | LLM Chunking to Vector Visualization | ✅ Completed |
 | 40 | Query Rewriting, Reranking, and Retrieval Limitations | ✅ Completed |
 | 41 | Building a Better RAG Pipeline — and Finding Its Limits | ✅ Completed |
+| 42 | From Inference to Training | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
