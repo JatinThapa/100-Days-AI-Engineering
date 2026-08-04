@@ -72,6 +72,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 41 | Building a Better RAG Pipeline — and Finding Its Limits | ✅ Completed |
 | 42 | From Inference to Training | ✅ Completed |
 | 43 | Revisiting the RAG Foundations | ✅ Completed |
+| 44 | Preparing the Amazon Product Dataset | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
