@@ -73,6 +73,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 42 | From Inference to Training | ✅ Completed |
 | 43 | Revisiting the RAG Foundations | ✅ Completed |
 | 44 | Preparing the Amazon Product Dataset | ✅ Completed |
+| 45 | A Five-Step Strategy for Applying LLMs to Business Problems | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
