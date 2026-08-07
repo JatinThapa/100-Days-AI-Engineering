@@ -75,6 +75,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 44 | Preparing the Amazon Product Dataset | ✅ Completed |
 | 45 | A Five-Step Strategy for Applying LLMs to Business Problems | ✅ Completed |
 | 46 | Learning LLM Batch Processing for Dataset Preparation | ✅ Completed |
+| 47 | Establishing Baselines for Product Price Prediction | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
