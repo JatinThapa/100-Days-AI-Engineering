@@ -77,6 +77,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 46 | Learning LLM Batch Processing for Dataset Preparation | ✅ Completed |
 | 47 | Establishing Baselines for Product Price Prediction | ✅ Completed |
 | 48 | Random Forest and XGBoost for Price Prediction | ✅ Completed |
+| 49 | Building a Vanilla Neural Network for Price Prediction | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
