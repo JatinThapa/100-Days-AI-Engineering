@@ -1,4 +1,4 @@
-## Day 49 – Zero-Shot Price Prediction with Local LLMs
+## Day 50 – Zero-Shot Price Prediction with Local LLMs
 
 Today, I experimented with using pretrained Ollama models directly for product price prediction.
 
