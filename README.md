@@ -78,6 +78,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 47 | Establishing Baselines for Product Price Prediction | ✅ Completed |
 | 48 | Random Forest and XGBoost for Price Prediction | ✅ Completed |
 | 49 | Building a Vanilla Neural Network for Price Prediction | ✅ Completed |
+| 50 | Zero-Shot Price Prediction with Local LLMs | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
