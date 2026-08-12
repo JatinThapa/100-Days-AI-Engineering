@@ -80,6 +80,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 49 | Building a Vanilla Neural Network for Price Prediction | ✅ Completed |
 | 50 | Zero-Shot Price Prediction with Local LLMs | ✅ Completed |
 | 51 | Revisiting RAG Evaluation | ✅ Completed |
+| 52 | Understanding LoRA and QLoRA | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
