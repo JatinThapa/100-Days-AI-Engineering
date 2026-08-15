@@ -83,6 +83,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 52 | Understanding LoRA and QLoRA | ✅ Completed |
 | 53 | Loading & Exploring Qwen3 | ✅ Completed |
 | 54 | Quantizing Qwen3 & Understanding LoRA Parameter Size | ✅ Completed |
+| 55 | Final Dataset Preparation Before Fine-Tuning  | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
