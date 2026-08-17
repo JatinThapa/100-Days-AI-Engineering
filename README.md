@@ -85,6 +85,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 54 | Quantizing Qwen3 & Understanding LoRA Parameter Size | ✅ Completed |
 | 55 | Final Dataset Preparation Before Fine-Tuning  | ✅ Completed |
 | 56 | Baseline Evaluation, a Qwen Failure & Switching to Llama 3.2 | ✅ Completed |
+| 57 | Understanding the Fine-Tuning Configuration | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
