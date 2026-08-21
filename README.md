@@ -89,6 +89,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 58 | Finally Fine-Tuning with QLoRA | ✅ Completed |
 | 59 | Evaluating the fine-tuning run in Weights and Biases | ✅ Completed |
 | 60 | Understanding Loss calculation During LLM Training | ✅ Completed |
+| 61 | Finally Testing the Fine-Tuned Llama 3.2 3B Model | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
