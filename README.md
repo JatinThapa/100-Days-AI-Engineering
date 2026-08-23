@@ -90,6 +90,8 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 59 | Evaluating the fine-tuning run in Weights and Biases | ✅ Completed |
 | 60 | Understanding Loss calculation During LLM Training | ✅ Completed |
 | 61 | Finally Testing the Fine-Tuned Llama 3.2 3B Model | ✅ Completed |
+| 62 | From LLMs to Agentic AI: Designing My First Agentic System | ✅ Completed |
+| 63 | Taking My First Steps with Modal and Remote Python Compute | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
