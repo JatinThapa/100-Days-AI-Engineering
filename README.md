@@ -93,6 +93,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 62 | From LLMs to Agentic AI: Designing My First Agentic System | ✅ Completed |
 | 63 | Taking My First Steps with Modal and Remote Python Compute | ✅ Completed |
 | 64 | Revisiting the Foundations: Gradio and Tool Calling | ✅ Completed |
+| 65 | Taking My Fine-Tuned Model to the Cloud | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
