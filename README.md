@@ -94,6 +94,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 63 | Taking My First Steps with Modal and Remote Python Compute | ✅ Completed |
 | 64 | Revisiting the Foundations: Gradio and Tool Calling | ✅ Completed |
 | 65 | Taking My Fine-Tuned Model to the Cloud | ✅ Completed |
+| 66 | Deploying My Fine-Tuned Llama Model with Modal & Model Caching | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
