@@ -95,6 +95,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 64 | Revisiting the Foundations: Gradio and Tool Calling | ✅ Completed |
 | 65 | Taking My Fine-Tuned Model to the Cloud | ✅ Completed |
 | 66 | Deploying My Fine-Tuned Llama Model with Modal & Model Caching | ✅ Completed |
+| 67 | Revisiting RAG & Advanced RAG Techniques | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
