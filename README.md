@@ -96,6 +96,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 65 | Taking My Fine-Tuned Model to the Cloud | ✅ Completed |
 | 66 | Deploying My Fine-Tuned Llama Model with Modal & Model Caching | ✅ Completed |
 | 67 | Revisiting RAG & Advanced RAG Techniques | ✅ Completed |
+| 68 | Building My First Agent: The Specialist Agent | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
