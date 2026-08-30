@@ -89,7 +89,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 58 | Finally Fine-Tuning with QLoRA | ✅ Completed |
 | 59 | Evaluating the fine-tuning run in Weights and Biases | ✅ Completed |
 | 60 | Understanding Loss calculation During LLM Training | ✅ Completed |
-| 61 | Finally Testing the Fine-Tuned Llama 3.2 3B Model | ✅ Completed |
+| 61 | Finally Testing the Fine-Tuned Llama 3.2 3B Model | ✅ Comple |ted
 | 62 | From LLMs to Agentic AI: Designing My First Agentic System | ✅ Completed |
 | 63 | Taking My First Steps with Modal and Remote Python Compute | ✅ Completed |
 | 64 | Revisiting the Foundations: Gradio and Tool Calling | ✅ Completed |
@@ -98,6 +98,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 67 | Revisiting RAG & Advanced RAG Techniques | ✅ Completed |
 | 68 | Building My First Agent: The Specialist Agent | ✅ Completed |
 | 69 | Designing the Price Estimation Ensemble & Building an 800K-Item RAG Knowledge Base | ✅ Completed |
+| 70 | Revisiting LLM Selection & Evaluation | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
