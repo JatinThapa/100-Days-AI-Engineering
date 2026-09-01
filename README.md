@@ -100,6 +100,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 69 | Designing the Price Estimation Ensemble & Building an 800K-Item RAG Knowledge Base | ✅ Completed |
 | 70 | Revisiting LLM Selection & Evaluation | ✅ Completed |
 | 71 | Visualizing My ChromaDB Vector Store | ✅ Completed |
+| 72 | Revisiting Model Training, Hyperparameter Tuning & Batch Inference | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
