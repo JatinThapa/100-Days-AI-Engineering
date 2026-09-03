@@ -102,6 +102,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 71 | Visualizing My ChromaDB Vector Store | ✅ Completed |
 | 72 | Revisiting Model Training, Hyperparameter Tuning & Batch Inference | ✅ Completed |
 | 73 | Using RAG for Better Price Predictions | ✅ Completed |
+| 74 | Building the Ensemble Pricing Model | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
