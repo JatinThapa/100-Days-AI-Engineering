@@ -103,6 +103,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 72 | Revisiting Model Training, Hyperparameter Tuning & Batch Inference | ✅ Completed |
 | 73 | Using RAG for Better Price Predictions | ✅ Completed |
 | 74 | Building the Ensemble Pricing Model | ✅ Completed |
+| 75 | Revisiting QLoRA & Parameter-Efficient Fine-Tuning | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
