@@ -105,6 +105,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 74 | Building the Ensemble Pricing Model | ✅ Completed |
 | 75 | Revisiting QLoRA & Parameter-Efficient Fine-Tuning | ✅ Completed |
 | 76 | Turning My Price Predictor into an Agentic System | ✅ Completed |
+| 77 | Understanding Structured Outputs & Constrained Decoding | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
