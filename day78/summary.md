@@ -24,6 +24,3 @@ Just a little debugging of my own brain. 🧠😂
 
 **Day 78 done. 22 more to go. 🚀**
 
-#100DaysOfAI #RAG #GenerativeAI #LLM #AIEngineering #LangChain #ChromaDB #VectorDatabase #RetrievalAugmentedGeneration #LearningInPublic
-
-This version keeps the test-prep context while making the post feel more personal and witty rather than like a technical syllabus.
