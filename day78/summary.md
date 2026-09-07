@@ -1,6 +1,4 @@
-Absolutely — I’d make it feel less like a checklist and more like a “revision day that accidentally became a RAG deep-dive.” 😄
-
-**#100DaysOfAI – Day 78 🚀**
+**#100DaysOfAI – Day 78 🚀 Going Back to the Roots of RAG**
 
 Today, my AI journey took a tiny detour because **Accenture Java Enterprise test prep** decided it wanted some attention too. 😅
 
