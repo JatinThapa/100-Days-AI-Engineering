@@ -107,6 +107,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 76 | Turning My Price Predictor into an Agentic System | ✅ Completed |
 | 77 | Understanding Structured Outputs & Constrained Decoding | ✅ Completed |
 | 78 | Going Back to the Roots of RAG | ✅ Completed |
+| 79 | Revisiting the Foundations | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
