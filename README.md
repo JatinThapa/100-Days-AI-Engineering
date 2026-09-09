@@ -108,6 +108,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 77 | Understanding Structured Outputs & Constrained Decoding | ✅ Completed |
 | 78 | Going Back to the Roots of RAG | ✅ Completed |
 | 79 | Revisiting the Foundations | ✅ Completed |
+| 80 | Building an AI-Powered Deal Scanner | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
