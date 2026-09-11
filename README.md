@@ -110,6 +110,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 79 | Revisiting the Foundations | ✅ Completed |
 | 80 | Building an AI-Powered Deal Scanner | ✅ Completed |
 | 81 | Revisiting LLM Evaluation & Real-World AI Applications | ✅ Completed |
+| 82 | Turning My Deal Scanner into an Agent | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
