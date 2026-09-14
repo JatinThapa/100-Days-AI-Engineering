@@ -113,6 +113,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 82 | Turning My Deal Scanner into an Agent | ✅ Completed |
 | 83 | Demystifying Agentic AI from First Principles | ✅ Completed |
 | 84 | Going Back to Strengthen the Foundations | ✅ Completed |
+| 85 |  Building an Autonomous Planning Agent from First Principles | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
