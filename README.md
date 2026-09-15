@@ -114,6 +114,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 83 | Demystifying Agentic AI from First Principles | ✅ Completed |
 | 84 | Going Back to Strengthen the Foundations | ✅ Completed |
 | 85 |  Building an Autonomous Planning Agent from First Principles | ✅ Completed |
+| 86 | Connecting the Agents into a Fully Autonomous Deal Finder | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
