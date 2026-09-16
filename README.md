@@ -115,6 +115,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 84 | Going Back to Strengthen the Foundations | ✅ Completed |
 | 85 |  Building an Autonomous Planning Agent from First Principles | ✅ Completed |
 | 86 | Connecting the Agents into a Fully Autonomous Deal Finder | ✅ Completed |
+| 87 | Revisiting Code Optimization: From Python to High-Performance C++ | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
