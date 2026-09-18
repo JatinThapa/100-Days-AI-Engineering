@@ -117,6 +117,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 86 | Connecting the Agents into a Fully Autonomous Deal Finder | ✅ Completed |
 | 87 | Revisiting Code Optimization: From Python to High-Performance C++ | ✅ Completed |
 | 88 | Seeing the Bigger Picture Behind the Agentic System | ✅ Completed |
+| 89 | Reaching the Finish Line of the AI Engineering Journey | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
