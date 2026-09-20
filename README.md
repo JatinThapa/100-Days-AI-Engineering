@@ -119,6 +119,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 88 | Seeing the Bigger Picture Behind the Agentic System | ✅ Completed |
 | 89 | Reaching the Finish Line of the AI Engineering Journey | ✅ Completed |
 | 90 | From Agent Logic to a Real User Interface | ✅ Completed |
+| 91 | Back to the Basics | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
