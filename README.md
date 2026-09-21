@@ -120,6 +120,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 89 | Reaching the Finish Line of the AI Engineering Journey | ✅ Completed |
 | 90 | From Agent Logic to a Real User Interface | ✅ Completed |
 | 91 | Back to the Basics | ✅ Completed |
+| 92 | A Day of Building, Testing & Agent Loops | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
