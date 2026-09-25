@@ -124,6 +124,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 93 | RAG, Revisited | ✅ Completed |
 | 94 | Revisiting the AI leaderboard ecosystem | ✅ Completed |
 | 95 | Neural Network model and hyperparameter tuning revision | ✅ Completed |
+| 96 | Quantization and transformer library revision | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
