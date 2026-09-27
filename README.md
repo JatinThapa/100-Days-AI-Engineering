@@ -126,6 +126,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 95 | Neural Network model and hyperparameter tuning revision | ✅ Completed |
 | 96 | Quantization and transformer library revision | ✅ Completed |
 | 97 | Revision & Connecting the Dots | ✅ Completed |
+| 98 | Agentic AI & Modal Serverless Deployment | ✅ Completed |
 ---
 
 ## 🎯 Why I'm Doing This
