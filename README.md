@@ -127,7 +127,7 @@ From simple LLM integrations to full-fledged AI applications, this repository se
 | 96 | Quantization and transformer library revision | ✅ Completed |
 | 97 | Revision & Connecting the Dots | ✅ Completed |
 | 98 | Agentic AI & Modal Serverless Deployment | ✅ Completed |
-| 99 | Final Wrap-Up | ✅ Completed |
+| 99 | A Tour Through My 100 Days of AI | ✅ Completed |
 | 100 | Final Wrap-Up | ✅ Completed |
 ---
 
